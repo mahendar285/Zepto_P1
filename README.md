@@ -16,6 +16,10 @@ In this project, I used SQL concepts such as **SELECT, WHERE, ORDER BY, GROUP BY
 
 I solved many business-related questions, including finding the most expensive products, top products in each category, category-wise inventory value, products with the highest discounts, average product prices, ranking products, and category performance.
 
+<img width="1911" height="1012" alt="Screenshot 2026-06-25 221752" src="https://github.com/user-attachments/assets/43885d0d-d622-49b9-b9fd-fc5b04b7adc4" />
+
+
+
 ## What I Learned
 
 This project helped me improve my SQL skills and understand how to solve real business problems using data. It also improved my problem-solving ability and gave me hands-on experience with SQL concepts that are commonly used by Data Analysts.
